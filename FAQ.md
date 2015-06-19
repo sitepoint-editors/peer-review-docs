@@ -79,7 +79,7 @@ A: Option 1 is using the on-site search. That's pretty bad, so a better way is u
 
 ---
 
-#### Q: C<a name="q10"></a>an I suggest rewrites or revivals of topics if they haven't been covered in a while?
+#### Q: <a name="q10"></a>Can I suggest rewrites or revivals of topics if they haven't been covered in a while?
 
 A: Absolutely! We're very interested in bringing our older work up to speed. If you notice some articles that need to be freshened up or are simply no longer factually accurate, let us know and we'll come up with a plan together. Revivals are treated just like regular posts, so you get paid as usual.
 

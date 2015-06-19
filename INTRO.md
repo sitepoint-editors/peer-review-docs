@@ -18,5 +18,6 @@ When a channel editor invites you to the repository of a channel, you'll be sent
 
 ![View Invitation screen on Github](http://www.sitepoint.com/wp-content/uploads/2015/06/1433875614Screenshot-2015-06-09-20.44.33-1024x274.png)
 
-- If you're interested in becoming an author, please read about [Submitting Drafts]().
-- If you'd like to become a reviewer or are just curious as to what it entails, please see [Reviewer Information]().
+- If you're interested in becoming an author, please read about [Submitting Drafts](http://sitepoint.com/submitting-drafts-sitepoints-peer-review).
+- If you'd like to become a reviewer or are just curious as to what it entails, please see [Reviewer Information](http://sitepoint.com/becoming-sitepoints-peer-reviewer).
+- If you have questions, please see the [FAQ section](http://sitepoint.com/sitepoints-peer-review-faq) after reading the two links above, and if your questions still haven't been answered after that, please contact [Bruno](mailto:bruno.skvorc@sitepoint.com).

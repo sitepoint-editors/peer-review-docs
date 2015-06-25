@@ -1,3 +1,12 @@
+Read the below text first, then use these links to navigate to other parts of the documentation:
+
+- Introduction (this post)
+- [Submitting Drafts](http://sitepoint.com/submitting-drafts-sitepoints-peer-review)
+- [Joining as a Reviewer](http://sitepoint.com/becoming-sitepoints-peer-reviewer)
+- [FAQ](http://sitepoint.com/sitepoints-peer-review-faq)
+
+---
+
 SitePoint has been the go-to location for generations of developers for over 10 years. Before there was StackOverflow, there were the SitePoint forums - a resource repository by coders for coders. It's where many of us got our start and came to help others in need - some in HTML and CSS, others in JavaScript, and others still in that magical adventure called Adobe Flash.
 
 Nowadays, SitePoint is one of the world's most popular online magazines for developers and general web folk. We've had many iterations since our forum days, but the word *magazine* above is what's important now - we're not a blog, and posts on our site are not guest blogs. As a magazine, we **pay for every post authors write for us**. For details on payment, you'd have to talk to the editor responsible for a given channel, but more on that below.
@@ -11,6 +20,7 @@ This is not a typical scientific PR - no detailed reviews need to happen and the
 The PR system is currently only implemented on the following channels:
 
 - [PHP](http://sitepoint.com/php) - contact [Bruno](mailto:bruno.skvorc@sitepoint.com) to join
+- [Mobile](http://sitepoint.com/mobile) - contact [Chris](mailto:chris.ward@sitepoint.com) to join
 
 If you would like to write for any of the above channels, you must get familiar with the PR system - there is no way around it. Fear not, it's far simpler than it sounds. Below you'll find some resources common to all channels implementing it. Keep in mind that individual channels *may* have channel specific instructions that supplement those outlined here.
 

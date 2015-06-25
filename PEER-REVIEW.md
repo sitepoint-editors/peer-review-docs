@@ -2,8 +2,8 @@ This document contains detailed instructions on how to do Peer Review, and what'
 
 - [Introduction](http://www.sitepoint.com/introduction-to-sitepoints-peer-review/)
 - [Submitting Drafts](http://sitepoint.com/submitting-drafts-sitepoints-peer-review)
-- Joining as a Reviewer (this post)
-- [FAQ](http://sitepoint.com/sitepoints-peer-review-faq)
+- Joining as a Reviewer
+- [FAQ](http://www.sitepoint.com/sitepoints-peer-review-faq/)
 
 ---
 

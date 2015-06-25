@@ -1,9 +1,9 @@
 Read the below text first, then use these links to navigate to other parts of the documentation:
 
-- Introduction (this post)
+- Introduction
 - [Submitting Drafts](http://sitepoint.com/submitting-drafts-sitepoints-peer-review)
 - [Joining as a Reviewer](http://www.sitepoint.com/becoming-sitepoints-peer-reviewer-how-and-why/)
-- [FAQ](http://sitepoint.com/sitepoints-peer-review-faq)
+- [FAQ](http://www.sitepoint.com/sitepoints-peer-review-faq/)
 
 ---
 
@@ -32,6 +32,6 @@ When a channel editor invites you to the repository of a channel, you'll be sent
 
 ## TL:DR;
 
-- If you're interested in becoming an author, please read about [Submitting Drafts](http://sitepoint.com/submitting-drafts-sitepoints-peer-review).
-- If you'd like to become a reviewer or are just curious as to what it entails, please see [Reviewer Information](http://sitepoint.com/becoming-sitepoints-peer-reviewer).
-- If you have questions, please see the [FAQ section](http://sitepoint.com/sitepoints-peer-review-faq) after reading the two links above, and if your questions still haven't been answered after that, please contact [Bruno](mailto:bruno.skvorc@sitepoint.com).
+- If you're interested in becoming an author, please read about [Submitting Drafts](http://www.sitepoint.com/submitting-drafts-for-sitepoints-peer-review/).
+- If you'd like to become a reviewer or are just curious as to what it entails, please see [Reviewer Information](http://www.sitepoint.com/becoming-sitepoints-peer-reviewer-how-and-why/).
+- If you have questions, please see the [FAQ section](http://www.sitepoint.com/sitepoints-peer-review-faq/) after reading the two links above, and if your questions still haven't been answered after that, please contact [Bruno](mailto:bruno.skvorc@sitepoint.com).

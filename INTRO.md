@@ -2,7 +2,7 @@ Read the below text first, then use these links to navigate to other parts of th
 
 - Introduction (this post)
 - [Submitting Drafts](http://sitepoint.com/submitting-drafts-sitepoints-peer-review)
-- [Joining as a Reviewer](http://sitepoint.com/becoming-sitepoints-peer-reviewer)
+- [Joining as a Reviewer](http://www.sitepoint.com/becoming-sitepoints-peer-reviewer-how-and-why/)
 - [FAQ](http://sitepoint.com/sitepoints-peer-review-faq)
 
 ---

@@ -1,4 +1,11 @@
-This document contains detailed instructions on how to do Peer Review, and what's in it for you.
+This document contains detailed instructions on how to do Peer Review, and what's in it for you. Use these links to navigate to other parts of the documentation:
+
+- [Introduction](http://www.sitepoint.com/introduction-to-sitepoints-peer-review/)
+- [Submitting Drafts](http://sitepoint.com/submitting-drafts-sitepoints-peer-review)
+- Joining as a Reviewer (this post)
+- [FAQ](http://sitepoint.com/sitepoints-peer-review-faq)
+
+---
 
 ## Why?
 

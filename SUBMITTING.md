@@ -84,7 +84,4 @@ The duration and number of needed reviews will vary per channel.
 Wait for feedback from other authors, or for feedback from the channel editor. People will comment on your PR directly. Fix errors when issues are raised concerning your post, try to be actively engaged in discussions about it. The ultimate goal is to iron it out to perfection. 
 
 Please do not take critique personally - obvious trolls will be banned, of course, but everyone in the repo will try to help you improve, and it is expected that you do the same.
-
-For more information about reviewing, see [here](http://sitepoint.com/becoming-sitepoints-peer-reviewer).
-
 <script src="http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2015/06/1434812097gifffer.min_.js"></script><script>window.onload=function() {Gifffer();}</script>

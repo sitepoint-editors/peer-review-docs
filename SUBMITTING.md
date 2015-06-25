@@ -1,4 +1,11 @@
-This document contains detailed instructions on how to write and submit drafts.
+This document contains detailed instructions on how to write and submit drafts. Use these links to navigate to other parts of the documentation:
+
+- [Introduction](http://www.sitepoint.com/introduction-to-sitepoints-peer-review/)
+- Submitting Drafts
+- [Joining as a Reviewer](http://www.sitepoint.com/becoming-sitepoints-peer-reviewer-how-and-why/)
+- [FAQ](http://sitepoint.com/sitepoints-peer-review-faq)
+
+---
 
 ## Before writing
 

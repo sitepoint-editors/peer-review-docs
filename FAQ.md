@@ -1,6 +1,13 @@
-This section will contain answers to some questions we've encountered throughout the lifetime of the peer review process.
+This section will contain answers to some questions we've encountered throughout the lifetime of the peer review process. Use these links to navigate to other parts of the documentation:
+
+- [Introduction](http://www.sitepoint.com/introduction-to-sitepoints-peer-review/)
+- [Submitting Drafts](http://sitepoint.com/submitting-drafts-sitepoints-peer-review)
+- [Joining as a Reviewer](http://www.sitepoint.com/becoming-sitepoints-peer-reviewer-how-and-why/)
+- FAQ
 
 ---
+
+## FAQ
 
 - [I have code to include with my article. Where do I put it?](#q1)
 - [Can I update the code I wrote?](#q2)

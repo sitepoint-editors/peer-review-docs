@@ -19,7 +19,9 @@ If you have no idea about which editor to use, the recommended MD editor is [Sta
 
 ### English Language
 
-Make sure your English is good. Watch out for lowercase "i", missing commas, missing dots, typos. Use a spell checker - every modern browser has one. The better your English, the faster I review. It's best if you have someone who speaks good English pre-read your article. Please don't expect reviewers to fix your language - some will do it, but that's not what they're there for. Your English should be good enough to allow people to immediately dive into the content of your post - that is what leads to the best reviews and ultimately, the best posts.
+Make sure your English is good. Watch out for lowercase "i", missing commas, missing dots, typos. Use a spell checker - every modern browser has one. The better your English, the faster your work is reviewed. It's best if you have someone who speaks good English pre-read your article. 
+
+Please don't expect peers to fix your language - some will do it, but that's not what they're there for. Your English should be good enough to allow people to immediately dive into the content of your post - that is what leads to the best reviews and ultimately, the best posts. Of course, this doesn't mean your English should be *perfect*, not everyone can output excellent writing in a non-native language, but you should always do your absolute best.
 
 ### Titles and Subtitles
 

@@ -1,7 +1,7 @@
 This document contains detailed instructions on how to do Peer Review, and what's in it for you. Use these links to navigate to other parts of the documentation:
 
 - [Introduction](http://www.sitepoint.com/introduction-to-sitepoints-peer-review/)
-- [Submitting Drafts](http://sitepoint.com/submitting-drafts-sitepoints-peer-review)
+- [Submitting Drafts](http://www.sitepoint.com/submitting-drafts-for-sitepoints-peer-review/)
 - Joining as a Reviewer
 - [FAQ](http://www.sitepoint.com/sitepoints-peer-review-faq/)
 
@@ -34,11 +34,11 @@ There are several different ways to review. Any one of them counts as a contribu
 - If the article has the `peer review` label, it is highly recommended you take a look at the post and voice your opinion in the pull request's thread - no need to open separate issues, just address everything right there in the PR. When possible, [tag the original author](https://github.com/blog/821) so they know they need to take a look at your suggestions. It's the original author's responsibility to update his post according to best practices recommended by others, whether this be language fixes, layout fixes, or code fixes. If you do a pull request on someone's pull request, notify the author - by default, Github won't notify them. If you aren't familiar with PRs on PRs, ignore this part - just drop a comment in the original pull request of the draft instead.
 
 	Here's how you drop a simple comment into someone's submissions:
-	
+
 	<img data-gifffer="http://www.sitepoint.com/wp-content/uploads/2015/06/1434802154peers-review-example.gif" />
 
 	And here's how you drop a comment on a specific part of their article:
-	
+
 	<img data-gifffer="http://www.sitepoint.com/wp-content/uploads/2015/06/1434802206peers-review-example2.gif" />
 
 - Minor stuff - if you notice an image has a wrong URL, or a typo, or some formatting errors, no need to open an issue. Fix it and submit a pull request if the article is already merged into master or tag the author if not, everyone will appreciate it. For articles on which you can offer quick help, it's best if you look for the appropriate lables. For example, the PHP channel has the [need language help](https://github.com/sitepoint-editors/php-peers/labels/Need%20Language%20Help) label for some posts - those will have faulty English or wrong phrasing. (You won't be able to access the above link if you aren't a member of the PHP channel's repository).

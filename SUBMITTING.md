@@ -19,7 +19,7 @@ If you have no idea about which editor to use, the recommended MD editor is [Sta
 
 ### English Language
 
-Make sure your English is good. Watch out for lowercase "i", missing commas, missing dots, typos. Use a spell checker - every modern browser has one. The better your English, the faster your work is reviewed. It's best if you have someone who speaks good English pre-read your article. 
+Make sure your English is good. Watch out for lowercase "i", missing commas, missing dots, typos. Use a spell checker - every modern browser has one. The better your English, the faster your work is reviewed. It's best if you have someone who speaks good English pre-read your article.
 
 Please don't expect peers to fix your language - some will do it, but that's not what they're there for. Your English should be good enough to allow people to immediately dive into the content of your post - that is what leads to the best reviews and ultimately, the best posts. Of course, this doesn't mean your English should be *perfect*, not everyone can output excellent writing in a non-native language, but you should always do your absolute best.
 
@@ -49,19 +49,29 @@ Step by step:
 
 	<script type="text/javascript" src="https://asciinema.org/a/21683.js" id="asciicast-21683" async></script>
 
-2. If there is no folder matching your name yet **under the Authors folder**, please make one. Make it your full name, but remove local characters. For example, Bruno Škvorc will have the folder "Bruno Skvorc" or "Bruno-Skvorc".
+3. If there is no folder matching your name yet **under the Authors folder**, please make one. Make it your full name, but remove local characters. For example, Bruno Škvorc will have the folder "Bruno Skvorc" or "Bruno-Skvorc".
 
 	<img data-gifffer="http://www.sitepoint.com/wp-content/uploads/2015/06/1434742814peers-author-folder.gif" />
 
-3. Make a sub-folder for your post. Prefix the name with the number of posts in your folder. For example, if this is your first post in this repository, prefix with 01. If you already have three posts in this new system, prefix with 04. Keep the name short, but descriptive. For example, if your tutorial is called "How to set up ACL with Sentry in Laravel", a good **folder** name is "01 - Sentry ACL in Laravel" and a bad name is "01 - sentrylar". For articles of several parts, see below.
+4. Make a sub-folder for your post. Prefix the name with the number of posts in your folder. For example, if this is your first post in this repository, prefix with 01. If you already have three posts in this new system, prefix with 04. Keep the name short, but descriptive. For example, if your tutorial is called "How to set up ACL with Sentry in Laravel", a good **folder** name is "01 - Sentry ACL in Laravel" and a bad name is "01 - sentrylar". For articles of several parts, see below.
 
 	<img data-gifffer="http://www.sitepoint.com/wp-content/uploads/2015/06/1434742805peers-article-folder.gif" />
 
-4. Inside that folder, put the draft in MarkDown format (the file name doesn't matter as long as it ends in `.md`) and related images (if you wish to include any in the post).
+5. Inside that folder, put the draft in MarkDown format (the file name doesn't matter as long as it ends in `.md`) and related images (if you wish to include any in the post).
 
 	<img data-gifffer="http://www.sitepoint.com/wp-content/uploads/2015/06/1434742797peers-article-draft.gif" />
 
-5. Send a [pull request](https://help.github.com/articles/using-pull-requests/).
+6. Commit the changes you have made, then push them to your fork on GitHub:
+
+```bash
+git add .
+git commit -m "My first article"
+git push origin my-new-article
+```
+
+Notice that we are pushing the branch we created, not the master.
+
+7. Send a [pull request](https://help.github.com/articles/using-pull-requests/).
 
 	<img data-gifffer="http://www.sitepoint.com/wp-content/uploads/2015/06/1434743210peers-example-pr.gif" />
 
@@ -83,7 +93,7 @@ It will then have to be in `peer review` mode for a specific amount of time **or
 
 The duration and number of needed reviews will vary per channel.
 
-Wait for feedback from other authors, or for feedback from the channel editor. People will comment on your PR directly. Fix errors when issues are raised concerning your post, try to be actively engaged in discussions about it. The ultimate goal is to iron it out to perfection. 
+Wait for feedback from other authors, or for feedback from the channel editor. People will comment on your PR directly. Fix errors when issues are raised concerning your post, try to be actively engaged in discussions about it. The ultimate goal is to iron it out to perfection.
 
 Please do not take critique personally - obvious trolls will be banned, of course, but everyone in the repo will try to help you improve, and it is expected that you do the same.
 

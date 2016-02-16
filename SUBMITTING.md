@@ -57,7 +57,7 @@ Step by step:
 
 	<img data-gifffer="http://www.sitepoint.com/wp-content/uploads/2015/06/1434742805peers-article-folder.gif" />
 
-5. Inside that folder, put the draft in MarkDown format (the file name doesn't matter as long as it ends in `.md`) and related images (if you wish to include any in the post).
+5. Inside that folder, put the draft in MarkDown format (the file name doesn't matter as long as it ends in `.md`). If you wish to include any images in the post, ask the channel's editor about the best way to do this. Some editors (PHP, JavaScript) will have you upload images to SitePoint's CDN. Others will prefer that you include them in the same folder as your article.
 
 	<img data-gifffer="http://www.sitepoint.com/wp-content/uploads/2015/06/1434742797peers-article-draft.gif" />
 
